@@ -41,7 +41,7 @@ These tools provide:
 - [tAI](https://github.com/bjarneo/tAI) - Terminal AI assistant that translates natural language to shell commands with interactive execution. Supports multiple providers (OpenAI, Google, Anthropic, Groq) with TUI setup and enhanced terminal UI.
 - [anthropic-cli](https://github.com/dvcrn/anthropic-cli) - Unofficial CLI for interacting with Anthropic's Claude API. Supports text and image messages (PNG, JPEG, PDF), various parameters (temperature, top-k, top-p), and can be integrated with other command-line tools.
 - [gemini-cli](https://github.com/Zibri/gemini-cli) - Unofficial CLI client for Google Gemini API written in C. Features Deep Mode prompting, key-free operation, multi-key management, file attachments, session management, and cross-platform support.
-- [Grok CLI](https://grokcli.io/) - Official conversational AI CLI tool for interacting with xAI's Grok models.
+- [Grok CLI](https://grokcli.io/) - Conversational AI CLI tool for interacting with xAI's Grok models.
 
 ## AI Coding Assistants & Agents
 
